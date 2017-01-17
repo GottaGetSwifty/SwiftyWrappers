@@ -1,0 +1,3 @@
+[submodule "SubModules/SwiftyDevice"]
+	path = SubModules/SwiftyDevice
+	url = https://PeeJWeeJ@github.com/PeeJWeeJ/SwiftyDevice.git
