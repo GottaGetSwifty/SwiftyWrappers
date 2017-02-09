@@ -1,3 +1,9 @@
 [submodule "SubModules/SwiftyDevice"]
 	path = SubModules/SwiftyDevice
 	url = https://PeeJWeeJ@github.com/PeeJWeeJ/SwiftyDevice.git
+[submodule "SubModules/SwiftyUserDefaults"]
+	path = SubModules/SwiftyUserDefaults
+	url = https://PeeJWeeJ@github.com/PeeJWeeJ/SwiftyUserDefaults.git
+[submodule "SubModules/SwiftyNotification"]
+	path = SubModules/SwiftyNotification
+	url = https://github.com/PeeJWeeJ/SwiftyNotifications.git
